@@ -74,6 +74,7 @@ public class Main {
             fullName = reverseFullName[i - 1];
             System.out.print(fullName);
         }
+        ///Готово
     }
     public static int[] generateRandomArray() {
         java.util.Random random = new java.util.Random();
